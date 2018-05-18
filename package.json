@@ -8,6 +8,7 @@
     "lint": "eslint --max-warnings=0 src",
     "mocha": "./node_modules/mocha/bin/mocha --compilers js:babel-core/register",
     "postpublish": "git push --tags",
+    "prepublish": "yarn build && yarn test",
     "test": "yarn lint && yarn mocha"
   },
   "repository": {
@@ -43,6 +44,6 @@
     "mocha": "5.1.1"
   },
   "dependencies": {
-    "get-relative-luminance": "0.1.1"
+    "get-relative-luminance": "0.1.2"
   }
 }
