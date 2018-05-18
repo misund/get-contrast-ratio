@@ -1,6 +1,6 @@
 {
   "name": "get-contrast-ratio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Calculate contrast ratio between two CSS color strings.",
   "main": "build/index.js",
   "scripts": {
