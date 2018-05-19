@@ -41,4 +41,3 @@ build/
 
 # Lockfiles
 package-lock.json
-yarn.lock
