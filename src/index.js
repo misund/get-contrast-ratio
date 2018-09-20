@@ -14,7 +14,7 @@ const getContrastRatio = (color1, color2) => {
 
   const contrast = (lightest + 0.05) / (darkest + 0.05);
 
-  return Math.floor(contrast, -2);
+  return Math.floor(contrast * 100) / 100;
 };
 
 export default getContrastRatio;
