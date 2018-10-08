@@ -13,9 +13,11 @@ describe('Get contrast ratio', () => {
     it('should return 1 for white on white', () => {
       assert.equal(getContrastRatio('white', 'white'), 1);
     });
-
     it('should return 1 for gray on gray', () => {
       assert.equal(getContrastRatio('#444', '#444444'), 1);
+    });
+    it('should return 2.14 for blue on red', () => {
+      assert.equal(getContrastRatio('blue', 'red'), 2.14);
     });
   });
 });
