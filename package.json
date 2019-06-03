@@ -6,7 +6,7 @@
   "scripts": {
     "build": "babel src -d build",
     "lint": "eslint --max-warnings=0 src",
-    "mocha": "./node_modules/mocha/bin/mocha --compilers js:babel-core/register",
+    "mocha": "mocha --require @babel/register",
     "postpublish": "git push --tags",
     "prepublish": "yarn build && yarn test",
     "test": "yarn lint && yarn mocha"
@@ -33,9 +33,10 @@
   },
   "homepage": "https://github.com/misund/get-contrast-ratio#readme",
   "devDependencies": {
-    "babel-cli": "6.26.0",
-    "babel-core": "6.26.3",
-    "babel-preset-env": "1.7.0",
+    "@babel/cli": "7.4.4",
+    "@babel/core": "7.4.5",
+    "@babel/preset-env": "7.4.5",
+    "@babel/register": "7.4.4",
     "eslint": "5.16.0",
     "eslint-config-airbnb": "17.1.0",
     "eslint-plugin-import": "2.17.3",
