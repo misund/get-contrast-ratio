@@ -47,6 +47,6 @@
     "np": "5.0.2"
   },
   "dependencies": {
-    "get-relative-luminance": "0.1.2"
+    "get-relative-luminance": "0.3.0"
   }
 }

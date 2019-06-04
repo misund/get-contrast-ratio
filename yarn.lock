@@ -1964,9 +1964,10 @@ get-caller-file@^2.0.1:
   resolved "https://registry.yarnpkg.com/get-caller-file/-/get-caller-file-2.0.5.tgz#4f94412a82db32f36e3b0b9741f8a97feb031f7e"
   integrity sha512-DyFP3BM/3YHTQOCUL/w0OZHR0lpKeGrxotcHWcqNEdnltqFwXVfhEBQ94eIo34AfQpo0rGki4cyIiftY06h2Fg==
 
-get-relative-luminance@0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/get-relative-luminance/-/get-relative-luminance-0.1.2.tgz#f0e77797fdd90d46e9a8a3a9531d97190d2f560c"
+get-relative-luminance@0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/get-relative-luminance/-/get-relative-luminance-0.3.0.tgz#3cb2f74e9044014dde3d049a4f479cc2b8c09bd2"
+  integrity sha512-5lRMk7EPF4hlDl7N0sp0dUAALeAfzIjfYVw0zY2Xoi/wNs3e7sAcyR82cQ/Xd4qJ1gOg8PmNTvW42uvfGv39cQ==
   dependencies:
     parse-color "1.0.0"
 
