@@ -1479,9 +1479,9 @@ eslint-plugin-jsx-a11y@6.2.3:
     has "^1.0.3"
     jsx-ast-utils "^2.2.1"
 
-eslint-plugin-react@7.14.2:
-  version "7.14.2"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.14.2.tgz#94c193cc77a899ac0ecbb2766fbef88685b7ecc1"
+eslint-plugin-react@7.14.3:
+  version "7.14.3"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react/-/eslint-plugin-react-7.14.3.tgz#911030dd7e98ba49e1b2208599571846a66bdf13"
   dependencies:
     array-includes "^3.0.3"
     doctrine "^2.1.0"
@@ -2420,13 +2420,7 @@ json5@^2.1.0:
   dependencies:
     minimist "^1.2.0"
 
-jsx-ast-utils@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/jsx-ast-utils/-/jsx-ast-utils-2.1.0.tgz#0ee4e2c971fb9601c67b5641b71be80faecf0b36"
-  dependencies:
-    array-includes "^3.0.3"
-
-jsx-ast-utils@^2.2.1:
+jsx-ast-utils@^2.1.0, jsx-ast-utils@^2.2.1:
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/jsx-ast-utils/-/jsx-ast-utils-2.2.1.tgz#4d4973ebf8b9d2837ee91a8208cc66f3a2776cfb"
   dependencies:
