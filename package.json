@@ -44,7 +44,7 @@
     "eslint-plugin-jsx-a11y": "6.2.3",
     "eslint-plugin-react": "7.14.2",
     "mocha": "6.2.0",
-    "np": "5.0.2"
+    "np": "5.0.3"
   },
   "dependencies": {
     "get-relative-luminance": "0.3.1"
