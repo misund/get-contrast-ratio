@@ -166,10 +166,10 @@
   version "2.4.0"
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
 
-"@types/parse-color@1.0.1":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@types/parse-color/-/parse-color-1.0.1.tgz#b0eccf24d5c21faeae518a307cda129ffcbf72fb"
-  integrity sha512-IEWhURMWTsse+MWUsebpmHw1yS0hI/yFxO4kY12Rh0MzW/AUbuk1cc6GlWUCRTEYtXuW6M0rP8Q8IDZY/YGX0Q==
+"@types/parse-color@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@types/parse-color/-/parse-color-1.0.3.tgz#002ab40d4051d443ef352bd9ad10c07454d1d79e"
+  integrity sha512-1zpnjrXCl0KklQOtMDDXhqQN9ouePkt4NBoAJ/dRjyMqWMkegyIqeZUOf3Xq4yaUPPdY8wmR8cye/D9v1kcrsQ==
 
 "@types/parse-json@^4.0.0":
   version "4.0.0"
