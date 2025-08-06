@@ -48,8 +48,8 @@
     "eslint-plugin-import": "2.32.0",
     "mocha": "11.7.1",
     "np": "7.6.2",
-    "ts-node": "^10.9.2",
-    "typescript": "4.8.4"
+    "ts-node": "10.9.2",
+    "typescript": "5.8.3"
   },
   "dependencies": {
     "get-relative-luminance": "2.0.0-0"
