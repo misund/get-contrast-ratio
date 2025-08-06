@@ -47,7 +47,7 @@
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-import": "2.32.0",
     "mocha": "11.7.1",
-    "np": "9.2.0",
+    "np": "10.2.0",
     "ts-node": "10.9.2",
     "typescript": "5.9.2"
   },
