@@ -60,7 +60,7 @@
     "mocha": "11.7.1",
     "np": "10.2.0",
     "tsx": "4.19.2",
-    "typescript": "5.9.2"
+    "typescript": "5.9.3"
   },
   "dependencies": {
     "get-relative-luminance": "2.0.0-1"
