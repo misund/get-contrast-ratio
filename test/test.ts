@@ -1,6 +1,6 @@
 /* global describe, it */
 import assert from 'assert'
-import getContrastRatio from '../src'
+import getContrastRatio from '../src/index.js'
 
 describe('Get contrast ratio', () => {
   describe('Some reference values', () => {

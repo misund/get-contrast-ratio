@@ -2,7 +2,15 @@
   "name": "get-contrast-ratio",
   "version": "1.0.0-0",
   "description": "Calculate contrast ratio between two CSS color strings.",
+  "type": "module",
   "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./build/index.d.ts",
+      "import": "./build/index.js"
+    }
+  },
   "files": [
     "build"
   ],
@@ -38,20 +46,23 @@
   },
   "homepage": "https://github.com/misund/get-contrast-ratio#readme",
   "devDependencies": {
-    "@types/mocha": "9.1.1",
+    "@eslint/eslintrc": "3.3.1",
+    "@eslint/js": "9.32.0",
+    "@types/mocha": "10.0.10",
+    "@types/node": "22.10.5",
     "@types/parse-color": "1.0.3",
-    "@typescript-eslint/eslint-plugin": "5.62.0",
-    "@typescript-eslint/parser": "5.62.0",
-    "eslint": "8.25.0",
+    "@typescript-eslint/eslint-plugin": "7.18.0",
+    "@typescript-eslint/parser": "7.18.0",
+    "eslint": "9.32.0",
     "eslint-config-airbnb": "19.0.4",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-import": "2.32.0",
     "mocha": "11.7.1",
-    "np": "9.2.0",
-    "ts-node": "10.9.2",
+    "np": "10.2.0",
+    "tsx": "4.19.2",
     "typescript": "5.9.2"
   },
   "dependencies": {
-    "get-relative-luminance": "2.0.0-0"
+    "get-relative-luminance": "2.0.0-1"
   }
 }
