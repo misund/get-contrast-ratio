@@ -1929,10 +1929,10 @@ get-proto@^1.0.0, get-proto@^1.0.1:
     dunder-proto "^1.0.1"
     es-object-atoms "^1.0.0"
 
-get-relative-luminance@2.0.0-1:
-  version "2.0.0-1"
-  resolved "https://registry.yarnpkg.com/get-relative-luminance/-/get-relative-luminance-2.0.0-1.tgz#c278e7bf53d57591cbef4bae474abd197007a3a4"
-  integrity sha512-Zj8gTeSe7DxwOLl/KVT5snpUdQdMcpCJeUQk5G6CClQ6On6+yZl73hDx+peRJgmNJstRxh0fRExdNOY2d4QAcg==
+get-relative-luminance@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/get-relative-luminance/-/get-relative-luminance-2.0.0.tgz#a07915d8a6ff7d24a05bc173a24394fb71306dc2"
+  integrity sha512-rCREt257T2ljgn2k8F85igA1O2SOndiRZEdp4PN+KZJz/DTnGlBtH4LoYwpD7ZP5Dlt73vteGjqqCQrc7xp4hQ==
   dependencies:
     parse-color "1.0.0"
 

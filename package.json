@@ -63,6 +63,6 @@
     "typescript": "5.9.3"
   },
   "dependencies": {
-    "get-relative-luminance": "2.0.0-1"
+    "get-relative-luminance": "2.0.0"
   }
 }
