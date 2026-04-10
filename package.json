@@ -57,7 +57,7 @@
     "eslint-config-airbnb": "19.0.4",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-import": "2.32.0",
-    "mocha": "11.7.4",
+    "mocha": "11.7.5",
     "np": "10.2.0",
     "tsx": "4.20.6",
     "typescript": "5.9.3"
