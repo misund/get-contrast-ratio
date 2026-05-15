@@ -59,7 +59,7 @@
     "eslint-plugin-import": "2.32.0",
     "mocha": "11.7.5",
     "np": "11.2.1",
-    "tsx": "4.21.0",
+    "tsx": "4.22.0",
     "typescript": "5.9.3"
   },
   "dependencies": {
